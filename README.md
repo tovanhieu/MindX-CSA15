@@ -1,5 +1,5 @@
 # MindX-CSA15
-## Đây là github repository chứa các file và video liên quan đến từng buổi học của khóa Computer Science Advance của lớp CSA15 tại MindX 📖
+## Đây là github repository chứa các file và video liên quan đến từng buổi học của khóa Computer Science Advance tại lớp CSA15 tại MindX 📖
 ### Link video các buổi tham khảo bên dưới📹:
 #### Buổi 1: https://youtu.be/owejukVfyls
 #### Buổi 2: https://youtu.be/32dhpj6gLc4
